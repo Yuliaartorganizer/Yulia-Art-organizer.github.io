@@ -1,18 +1,25 @@
 [
   {
-    "thumbnailUrl": "./assets/img/1.jpg"
+    "thumbnailUrl": "https://raw.githubusercontent.com/Yuliaartorganizer/Yuliaartorganizer.github.io/main/img/1.jpg"
   },
   {
-    "thumbnailUrl": "./assets/img/2.jpg"
+    "thumbnailUrl": "https://raw.githubusercontent.com/Yuliaartorganizer/Yuliaartorganizer.github.io/main/img/2.jpg"
   },
   {
-    "thumbnailUrl": "./assets/img/3.jpg"
+    "thumbnailUrl": "https://raw.githubusercontent.com/Yuliaartorganizer/Yuliaartorganizer.github.io/main/img/3.jpg"
   },
   {
-    "thumbnailUrl": "./assets/img/4.jpg"
+    "thumbnailUrl": "https://raw.githubusercontent.com/Yuliaartorganizer/Yuliaartorganizer.github.io/main/img/4.jpg"
   },
   {
-    "thumbnailUrl": "./assets/img/5.jpg"
+    "thumbnailUrl": "https://raw.githubusercontent.com/Yuliaartorganizer/Yuliaartorganizer.github.io/main/img/5.jpg"
+  },
+  {
+    "thumbnailUrl": "https://raw.githubusercontent.com/Yuliaartorganizer/Yuliaartorganizer.github.io/main/img/6.jpg"
+  },
+  {
+    "thumbnailUrl": "https://raw.githubusercontent.com/Yuliaartorganizer/Yuliaartorganizer.github.io/main/img/7.jpg"
   }
+  
   
 ]
